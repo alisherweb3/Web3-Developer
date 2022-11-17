@@ -1,0 +1,6 @@
+- Writing balances of accounts
+- Deploy smart contracts
+- Writing smart contracts
+- Creating transactions
+- Record of state
+- Works with events
