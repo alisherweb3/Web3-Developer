@@ -1,0 +1,6 @@
+- EOA and accounts of contracts
+- Structures and transactions types
+- HD-wallet and seed phrase
+- Mayners, bloks. consensys
+- Merkle Tree and MMPT
+- work with Etherscan
