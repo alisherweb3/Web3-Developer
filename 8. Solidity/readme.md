@@ -1,0 +1,6 @@
+- Syntaxsis and types of data
+- Global variables
+- embedding methods
+- Functions and modificators
+- Events and custom errors
+- Constructor and inheritance
