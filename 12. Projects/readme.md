@@ -1,11 +1,11 @@
-Autorization from Metamsk
+- Openzeppelin Governor and moduls
 
-landing for claim/mint nft
+- Setting roles and (прав доступа)
 
-service for assurances documents
+- Send Proposaul to Governor
 
-block-explorer for Ethereum
+- Kvorum, voting-weight and (голосование)
 
-fully NFT marketplace
+- timelock. (очередь и исполнение)
 
-dashboard for staking-apps
+- (варианты кастомизации протокола)
